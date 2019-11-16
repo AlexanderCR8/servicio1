@@ -6,6 +6,3 @@ app.get('/', (req, res) => {
       message:'SERVICIO GRUPO 5'
   })
 });
-app.listen(3000, function () {
-  console.log('Servidor en el puerto 3000');
-});
