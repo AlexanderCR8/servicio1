@@ -4,7 +4,7 @@ const PORT = process.env.PORT || 3000
 
 app.get('/', (req, res) => {
   res.status(200).send({
-      message:'SERVICIO GRUPO '
+      message:'SERVICIO GRUPO 1'
   })
 });
 app.listen(PORT, function () {
