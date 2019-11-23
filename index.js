@@ -11,6 +11,9 @@ app.get('/', (req, res) => {
    "mensaje": [
         {
                 "msg": "Servicio grupo 1"
+                "msg2": "El Estudiante se ha editado correctamente"
+                "msg3": "El Estudiante se ha eliminado correctamente"
+                "msg4": "Se produjo un problema en la Edición/Eliminación"
         }
    ]
 
