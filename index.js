@@ -16,7 +16,8 @@ app.get('/', (req, res) => {
                 "msg4": "Se produjo un problema en la Edición/Eliminación",
                 "msg5": "Examen primer hemisemestre",
                 "msg6": "Examen Optativa III",
-                "msg7": "mensajeExamen"
+                "msg7": "mensajeExamen",
+                "msg8": "Los estudiantes becados no se pueden eliminar"
               
         }
    ]
